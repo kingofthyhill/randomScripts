@@ -6,6 +6,7 @@ public class ball : MonoBehaviour {
 	public float bonusLength = 0f;
 	public float raycastLength;
 	public Vector3 bounceSpeed;
+	public bool change = true;
 
 
 	// Use this for initialization

@@ -10,7 +10,7 @@ public class tankMovement : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if ( (KeyCode.RightArrow)){
+		if ( false){
 			Debug.Log ("Yay me!");
 		}
 	}
